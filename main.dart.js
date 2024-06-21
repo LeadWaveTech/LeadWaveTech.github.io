@@ -25912,7 +25912,7 @@ $.a0F=!0
 $.a0o=new A.aeZ(q,B.lM)
 s=2
 return A.N(A.a7v(B.F6),$async$avm)
-case 2:q=A.aB(["/",new A.avp(),"/Home",new A.avq(),"/Authentication",new A.avr(),"/Contact",new A.avs()],t.N,t.Ab)
+case 2:q=A.aB(["/",new A.avp(),"/Dashboard",new A.avq(),"/Authentication",new A.avr(),"/Contact",new A.avs()],t.N,t.Ab)
 p=A.aBY(null,null,null,null,null,null,null,null,null,null,null,null,null,null,new A.bt(A.c7(12),B.m),null,null,null,null)
 o=A.ayg(null,null,null,null,null,null,null,null,null,null,null,null,null,null,new A.bt(A.c7(12),B.m),null,null,null,null)
 o=A.Eh(null,new A.js($.lp(),null,null,null,null),new A.u1(p),new A.wt(o),null)
@@ -86169,7 +86169,7 @@ $0(){return B.er},
 $S:72}
 A.a1U.prototype={
 $1(a){this.a.fy.sl(0,!1)
-A.Ap($.aH(),new A.a1T(),null,t.z)},
+A.Ap($.aH(),new A.a1T(),"/Dashboard",t.z)},
 $S:121}
 A.a1T.prototype={
 $0(){return B.em},
@@ -86182,7 +86182,7 @@ $0(){A.pX($.aH())},
 $S:0}
 A.a20.prototype={
 $1(a){this.a.fy.sl(0,!1)
-A.Ap($.aH(),new A.a1Z(),null,t.z)},
+A.Ap($.aH(),new A.a1Z(),"/Dashboard",t.z)},
 $S:121}
 A.a1Z.prototype={
 $0(){return B.em},
@@ -86688,7 +86688,7 @@ A.cm(r,$.fE(),!0)
 s=A.he(new A.dq(r))
 s.acw(s.gm2().jt()).f4(new A.aa4(this))},
 r2(){A.Ap($.aH(),new A.aa_(),"/",t.z)},
-Xg(){A.Ap($.aH(),new A.a9Z(),"/Home",t.z)},
+Xg(){A.Ap($.aH(),new A.a9Z(),"/Dashboard",t.z)},
 amX(){var s=$.c_,r=(s==null?$.c_=$.ez():s).ex("[DEFAULT]")
 A.cm(r,$.fE(),!0)
 A.he(new A.dq(r)).hg().bc(new A.aa3(),t.P)},
