@@ -1,11 +1,11 @@
 {
-    "name": "infotradenexus",
-    "short_name": "infotradenexus",
+    "name": "LeadWaveTech",
+    "short_name": "LeadWaveTech",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#2B2B2B",
+    "theme_color": "#BFAFF2",
+    "description": "Smarter leads, faster growth!",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
