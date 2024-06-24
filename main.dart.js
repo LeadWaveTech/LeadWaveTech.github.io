@@ -86545,7 +86545,7 @@ A.c8(p,q,!0)
 m=A.eW(new A.cT(p)).gfm().a.c.a.a}else m="null"
 q=t.N
 o=t.K
-s=A.aB(["key","rzp_test_oYZqZs0MACvvj1","amount",A.jk(b,",","")+"00","name",a+" Plan","description","Email: "+n+"\nUID: "+m,"retry",A.aB(["enabled",!0,"max_count",1],q,o),"send_sms_hash",!0,"prefill",A.aB(["email",n],q,q)],q,o)
+s=A.aB(["key","rzp_live_5SyVwwaEOKoYKe","amount",A.jk(b,",","")+"00","name",a+" Plan","description","Email: "+n+"\nUID: "+m,"retry",A.aB(["enabled",!0,"max_count",1],q,o),"send_sms_hash",!0,"prefill",A.aB(["email",n],q,q)],q,o)
 try{q=k.ax
 q===$&&A.b()
 q.AC(0,s)}catch(l){r=A.ad(l)
