@@ -87276,7 +87276,7 @@ A.bP(p,q,!0)
 m=A.et(new A.cp(p)).geA().a.c.a.a}else m="null"
 q=t.N
 o=t.K
-s=A.ax(["key","rzp_test_SpyIvgT2uv9wTO","amount",A.jv(b,",","")+"00","name",a+" Plan","description","Email: "+n+"\nUID: "+m,"retry",A.ax(["enabled",!0,"max_count",1],q,o),"send_sms_hash",!0,"prefill",A.ax(["email",n],q,q)],q,o)
+s=A.ax(["key","rzp_live_5SyVwwaEOKoYKe","amount",A.jv(b,",","")+"00","name",a+" Plan","description","Email: "+n+"\nUID: "+m,"retry",A.ax(["enabled",!0,"max_count",1],q,o),"send_sms_hash",!0,"prefill",A.ax(["email",n],q,q)],q,o)
 try{q=k.ax
 q===$&&A.b()
 q.AM(0,s)}catch(l){r=A.ab(l)
